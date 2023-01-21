@@ -1,6 +1,0 @@
-ChatterBot
-chatterbot-corpus
-jsonlines
-SQLAlchemy
-sqlparse
-streamlit
